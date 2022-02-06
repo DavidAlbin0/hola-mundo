@@ -1,2 +1,2 @@
-# hola-mundo
+# Katas LX
 python LX
